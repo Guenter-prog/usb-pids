@@ -955,3 +955,4 @@ PID    | Product name
 0x83B3 | danjinghaoeggggg - AmphiLink
 0x83B4 | Imago Delay - Platinum Series - VTR Effects
 0x83B5 | ESSOTEC - XENPAD Omni programmable macropad with display
+0x83B6 | PAUSCH-e - Midi-Matrix-Scanner 1 MAN
